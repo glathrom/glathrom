@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @glathrom
-- 👀 I’m interested in data science and machine learning.
-- 🌱 I’m currently working on PyTorch Experiments, machine learning in medicine, microcontrollers for embedded development am interested in LoRaWAN for the IoT.
+- 👀 I’m interested in data science and machine learning: PyTorch and OpenCV Experiments
+- Also interested in microcontrollers for embedded development am interested in LoRaWAN for the IoT
+- Digital security, bug bounties, penetration testing and hacking in general.
 - 💞️ I’m looking to collaborate on any of the above or if my skills might be useful then hit me up!
 - 📫 grant.lathrom@gmail.com
 
